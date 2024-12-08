@@ -5,6 +5,9 @@
 - Fix Buffered Inputs
 - Fix input lag on VSync
 - Fix inputs being fps-restricted
+- Fix Buffered Inputs
+- Fix input lag on VSync
+- Fix inputs being fps-restricted
 
 ## [0.6.0.25] - 2024-12-06 (Beta)
 
