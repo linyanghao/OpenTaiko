@@ -8,6 +8,12 @@
 - [Fix] fix fuze rolls stretched back when exploded
 - [Fix] fix balloon-type notes not stayed on judgement mark vertically during their duration
 - [Fix] fix wrong drawn position of rotated bar-type roll tails
+- [Feat] Make bar drumrolls stretchable
+- [Feat] Detect and hide screen-obscuring bar drumrolls when any tips are out of screen
+- [Fix] fix bar drumroll end stuck at judgement mark if occurred at 0ms since #START
+- [Fix] fix fuze rolls stretched back when exploded
+- [Fix] fix balloon-type notes not stayed on judgement mark vertically during their duration
+- [Fix] fix wrong drawn position of rotated bar-type roll tails
 
 ## [0.6.0.26] - 2024-12-08 (Beta)
 
