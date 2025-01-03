@@ -3,6 +3,7 @@
 ## [0.6.0.33] - 2025-01-03 (Beta)
 
 - Add Chapiter 4 and NEP03/4 unlocks
+- Add Chapiter 4 and NEP03/4 unlocks
 
 ## [0.6.0.32] - 2025-01-02 (Beta)
 
