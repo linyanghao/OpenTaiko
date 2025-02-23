@@ -3,6 +3,8 @@
 ## [0.6.0.46] - 2025-02-23 (Beta)
 
 - Disable stretching rolls until a format/option for them is decided
+- Fix crashes on undefined difficulties (LEVEL before COURSE)
+- Disable stretching rolls until a format/option for them is decided
 
 ## [0.6.0.45] - 2025-02-21 (Beta)
 
