@@ -5,6 +5,9 @@
 - [Fix] AD-LIBs and bombs were invisible and unhittable if their horizontal speed is negative
 - [Fix] Could only hit early for notes right before a negative-#SCROLL roll
 - [Fix] Sometimes balloons got 1 extra hit despite not in autoplay
+- [Fix] AD-LIBs and bombs were invisible and unhittable if their horizontal speed is negative
+- [Fix] Could only hit early for notes right before a negative-#SCROLL roll
+- [Fix] Sometimes balloons got 1 extra hit despite not in autoplay
 
 ## [0.6.0.46] - 2025-02-23 (Beta)
 
