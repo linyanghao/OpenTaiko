@@ -10,6 +10,14 @@
 - [Fix] Resuming in training mode will no longer remove unended rolls on the resuming point.
 - [Fix] The "force certain rolls to be drawn above non-rolls" behavior, which caused unstable draw order, is now removed.
 - [Fix] Negative-length Kusudama will no longer have its breaking animation played, unless it is hit during the pre–balloon-head 17ms judgement window before its end comes.
+- [Feat] Support #JPOSSCROLL distance with fractional parts
+- [Fix] Bar lines are now consistently drawn below notes.
+- [Fix] Notes are now drawn according to their definition order
+- [Fix] Re-enable Kusudamas in training mode
+- [Fix] Prevent notes from being "played" during training mode seeking
+- [Fix] Resuming in training mode will no longer remove unended rolls on the resuming point.
+- [Fix] The "force certain rolls to be drawn above non-rolls" behavior, which caused unstable draw order, is now removed.
+- [Fix] Negative-length Kusudama will no longer have its breaking animation played, unless it is hit during the pre–balloon-head 17ms judgement window before its end comes.
 
 ## [0.6.0.47] - 2025-03-05 (Beta)
 
