@@ -5,6 +5,9 @@
 - [Feat] Add .optksc as a file format, for creating shortcuts pointing to existing songs
 - [Enhancement] Account for all localized text when using Search by Text feature in song select
 - [Enhancement] Various minor optimizations on puchichara display, scene presets
+- [Feat] Add .optksc as a file format, for creating shortcuts pointing to existing songs
+- [Enhancement] Account for all localized text when using Search by Text feature in song select
+- [Enhancement] Various minor optimizations on puchichara display, scene presets
 
 ## [0.6.0.58] - 2025-05-04 (Beta)
 
