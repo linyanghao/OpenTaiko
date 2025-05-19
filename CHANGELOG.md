@@ -3,6 +3,7 @@
 ## [0.6.0.61] - 2025-05-19 (Beta)
 
 - Update NameplatesUnlockables.db3
+- Update NameplatesUnlockables.db3
 
 ## [0.6.0.60] - 2025-05-18 (Beta)
 
