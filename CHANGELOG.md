@@ -3,6 +3,7 @@
 ## [0.6.0.68] - 2025-05-31 (Beta)
 
 - [Chore] Handle Global Triggers methods on save files
+- [Chore] Handle Global Triggers methods on save files
 
 ## [0.6.0.67] - 2025-05-31 (Beta)
 
