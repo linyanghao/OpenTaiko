@@ -3,6 +3,7 @@
 ## [0.6.0.74] - 2025-06-07 (Beta)
 
 - [i18n] Global Trigger and Counter Russian and Chinese Text
+- [i18n] Global Trigger and Counter Russian and Chinese Text
 
 ## [0.6.0.73] - 2025-06-07 (Beta)
 
