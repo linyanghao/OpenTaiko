@@ -3,6 +3,7 @@
 ## [0.6.0.80] - 2025-06-18 (Beta)
 
 - [Fix] Fix accuracy exam monitoring
+- [Fix] Fix accuracy exam monitoring
 
 ## [0.6.0.79] - 2025-06-16 (Beta)
 
