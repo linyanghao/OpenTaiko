@@ -3,6 +3,7 @@
 ## [0.6.0.85] - 2025-08-02 (Beta)
 
 - [Fix] Fix a crash that occurs when clearing a Dan that has a title less than 2 chars in length
+- [Fix] Fix a crash that occurs when clearing a Dan that has a title less than 2 chars in length
 
 ## [0.6.0.84] - 2025-07-28 (Beta)
 
