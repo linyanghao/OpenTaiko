@@ -3,6 +3,7 @@
 ## [0.6.0.92] - 2025-10-20 (Beta)
 
 - [HotFix] Fix gauge not decreasing correctly on miss due to the previous version
+- [HotFix] Fix gauge not decreasing correctly on miss due to the previous version
 
 ## [0.6.0.91] - 2025-10-20 (Beta)
 
