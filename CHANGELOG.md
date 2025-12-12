@@ -3,6 +3,7 @@
 ## [0.6.0.94] - 2025-12-12 (Beta)
 
 - [i18n] Update spanish translations
+- [i18n] Update spanish translations
 
 ## [0.6.0.93] - 2025-11-05 (Beta)
 
