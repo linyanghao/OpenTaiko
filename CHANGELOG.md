@@ -4,6 +4,8 @@
 
 - [Hitsounds] Update the Taiko hitsounds
 - [Hitsounds] Add Bol and Clap histsounds
+- [Hitsounds] Update the Taiko hitsounds
+- [Hitsounds] Add Bol and Clap histsounds
 
 ## [0.6.0.97] - 2026-02-01 (Beta)
 
